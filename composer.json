@@ -1,0 +1,6 @@
+{
+    "name":        "magebuzz/magebuzz_quickcontact",
+    "description": "Magebuzz Quick Contact",
+    "type":        "magento-module",
+    "license":     "MIT",
+}
